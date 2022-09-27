@@ -1,5 +1,8 @@
 _repo: Definition_69009
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69009-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Damon
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25414
     wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69009#Definition
 gutenberg_issued: '2022-09-18'
 identifiers:
   gutenberg: '69009'
